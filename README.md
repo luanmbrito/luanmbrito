@@ -2,7 +2,7 @@
   
 <img align='center' src='https://media.giphy.com/media/gFPjQ5FmziQVsvexLt/giphy.gif' width='200'>
 
-**Estudande de programação** nas horas vagas, Atuando como Assistente de T.I.  
+**Estudande de programação** nas horas vagas, Atuando como Analista de T.I.  
 
 <a href="https://www.linkedin.com/in/luan-brito-bb0648152/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/luanm_brito/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -16,7 +16,6 @@
   <li>😊 Anseio em trazer conteudo do mundo Dev ao público;</li>
   <li>🎮 Nerd/Geek, apaixonados por jogos eletronicos em geral;</li>
   <li>💡 Aspirante em php nas horas vagas;</li>
-  <li>🤝 Aberto para projetos em javascript e android;</li>
 </ul>
 
 > “A força não provém da capacidade física. Provém de uma vontade indomável”
